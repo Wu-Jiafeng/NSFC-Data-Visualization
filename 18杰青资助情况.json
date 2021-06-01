@@ -1,0 +1,412 @@
+{
+	"SumOfMoney":68825,
+	"SumOfItems":199,
+	"SumOfProvinces":
+	[
+		{"name": "北京", "SumOfMoney":	24010,"SumOfItems":  71  },
+		{"name": "天津", "SumOfMoney":	2800,"SumOfItems":8},
+		{"name": "河北", "SumOfMoney":	350,"SumOfItems":1},
+		{"name": "山西", "SumOfMoney":	350,"SumOfItems":1},
+		
+		{"name": "辽宁", "SumOfMoney":	1750,"SumOfItems":5},
+		{"name": "吉林", "SumOfMoney":	1050,"SumOfItems":3},
+		{"name": "黑龙江", "SumOfMoney":	1750,"SumOfItems":5},
+		{"name": "上海", "SumOfMoney":	8085,"SumOfItems":24},
+		{"name": "江苏", "SumOfMoney":	5845,"SumOfItems":17},
+		{"name": "浙江", "SumOfMoney":	2100,"SumOfItems":6},
+		{"name": "安徽", "SumOfMoney":	1995,"SumOfItems":6},
+		{"name": "福建", "SumOfMoney":	700,"SumOfItems":2},
+		{"name": "江西", "SumOfMoney":	350,"SumOfItems":1},
+		{"name": "山东", "SumOfMoney":	700,"SumOfItems":2},
+		{"name": "河南", "SumOfMoney":	350,"SumOfItems":1},
+		{"name": "湖北", "SumOfMoney":	3850,"SumOfItems":11},
+		{"name": "湖南", "SumOfMoney":	1050,"SumOfItems":3},
+		{"name": "广东", "SumOfMoney":	3850,"SumOfItems":11},
+		
+		{"name": "海南", "SumOfMoney":	350,"SumOfItems":1},
+		{"name": "重庆", "SumOfMoney":	1050,"SumOfItems":3},
+		{"name": "四川", "SumOfMoney":	1750,"SumOfItems":5},
+		
+		
+		
+		{"name": "陕西", "SumOfMoney":	2450,"SumOfItems":7},
+		{"name": "甘肃", "SumOfMoney":	1750,"SumOfItems":5}
+	],
+	"SumOfCompany":
+	[
+		{"name":"高等院校","SumOfMoney":47985,"SumOfItems":141},
+		{"name":"科研单位","SumOfMoney":19250,"SumOfItems":55},
+		{"name":"其他","SumOfMoney":1050,"SumOfItems":3}		
+	],
+	"SumOfGovernment":
+	[
+		{"name":"教育部","SumOfMoney":33600,"SumOfItems":99},
+		{"name":"中国科学院","SumOfMoney":19390,"SumOfItems":56},
+		{"name":"工,交,农,医,国防等部门","SumOfMoney":6650,"SumOfItems":19},
+		{"name":"各省,自治区,市(直)","SumOfMoney":8645,"SumOfItems":25}
+	],
+
+	"TypeOfDepartment":
+	[
+		{
+			"name":"数理科学部","SumOfMoney":8120,"SumOfItems":25,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":6020,"SumOfItems":19},
+				{"name":"科研单位","SumOfMoney":2100,"SumOfItems":6},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":4830,"SumOfItems":15},
+				{"name":"中国科学院","SumOfMoney":2345,"SumOfItems":7},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":350,"SumOfItems":1},
+				{"name":"各省,自治区,市(直)","SumOfMoney":595,"SumOfItems":2}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	5180,"SumOfItems":16},
+				{"name": "天津", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "吉林", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "黑龙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "上海", "SumOfMoney":	945,"SumOfItems":3},
+				{"name": "江苏", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "浙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "安徽", "SumOfMoney":	245,"SumOfItems":1},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "广东", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "四川", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "陕西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "甘肃", "SumOfMoney":	700,"SumOfItems":2}
+			]
+		},
+		{
+			"name":"化学科学部","SumOfMoney":10500,"SumOfItems":30,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":7350,"SumOfItems":21},
+				{"name":"科研单位","SumOfMoney":3150,"SumOfItems":9},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":4200,"SumOfItems":12},
+				{"name":"中国科学院","SumOfMoney":3850,"SumOfItems":11},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":0,"SumOfItems":0},
+				{"name":"各省,自治区,市(直)","SumOfMoney":2450,"SumOfItems":7}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	2800,"SumOfItems":8},
+				{"name": "天津", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "辽宁", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "吉林", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "黑龙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "上海", "SumOfMoney":	1050,"SumOfItems":3},
+				{"name": "江苏", "SumOfMoney":	1050,"SumOfItems":3},
+				{"name": "浙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "安徽", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "福建", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河南", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "湖北", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "湖南", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "广东", "SumOfMoney":	1050,"SumOfItems":3},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "四川", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "陕西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "甘肃", "SumOfMoney":	350,"SumOfItems":1}
+			]
+		},
+		{
+			"name":"生命科学部","SumOfMoney":8750,"SumOfItems":25,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":5250,"SumOfItems":15},
+				{"name":"科研单位","SumOfMoney":3500,"SumOfItems":10},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":2800,"SumOfItems":8},
+				{"name":"中国科学院","SumOfMoney":3500,"SumOfItems":10},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":700,"SumOfItems":2},
+				{"name":"各省,自治区,市(直)","SumOfMoney":1750,"SumOfItems":5}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	2800,"SumOfItems":8},
+				{"name": "天津", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "吉林", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "黑龙江", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "上海", "SumOfMoney":	2100,"SumOfItems":6},
+				{"name": "江苏", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "浙江", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "安徽", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "山东", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "湖南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "广东", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "海南", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "重庆", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "四川", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "陕西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "甘肃", "SumOfMoney":	0,"SumOfItems":0}
+			]
+		},
+		{
+			"name":"地球科学部","SumOfMoney":7350,"SumOfItems":21,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":3500,"SumOfItems":10},
+				{"name":"科研单位","SumOfMoney":3850,"SumOfItems":11},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":2800,"SumOfItems":8},
+				{"name":"中国科学院","SumOfMoney":3150,"SumOfItems":9},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":1050,"SumOfItems":3},
+				{"name":"各省,自治区,市(直)","SumOfMoney":350,"SumOfItems":3}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	2800,"SumOfItems":8},
+				{"name": "天津", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "吉林", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "黑龙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "上海", "SumOfMoney":	0,"SumOfItems":1},
+				{"name": "江苏", "SumOfMoney":	700,"SumOfItems":1},
+				{"name": "浙江", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "安徽", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "湖南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "广东", "SumOfMoney":	1050,"SumOfItems":3},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "四川", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "陕西", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "甘肃", "SumOfMoney":	700,"SumOfItems":2}
+			]
+		},
+		{
+			"name":"工程与材料科学部","SumOfMoney":13300,"SumOfItems":38,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":10850,"SumOfItems":31},
+				{"name":"科研单位","SumOfMoney":2450,"SumOfItems":7},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":7700,"SumOfItems":22},
+				{"name":"中国科学院","SumOfMoney":2450,"SumOfItems":7},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":2100,"SumOfItems":6},
+				{"name":"各省,自治区,市(直)","SumOfMoney":1050,"SumOfItems":3}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	2800,"SumOfItems":8},
+				{"name": "天津", "SumOfMoney":	1400,"SumOfItems":4},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "吉林", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "黑龙江", "SumOfMoney":	1400,"SumOfItems":4},
+				{"name": "上海", "SumOfMoney":	1400,"SumOfItems":4},
+				{"name": "江苏", "SumOfMoney":	1050,"SumOfItems":3},
+				{"name": "浙江", "SumOfMoney":	1050,"SumOfItems":3},
+				{"name": "安徽", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	1050,"SumOfItems":3},
+				{"name": "湖南", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "广东", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "四川", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "陕西", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "甘肃", "SumOfMoney":	0,"SumOfItems":0}
+			]
+		},
+		{
+			"name":"信息科学部","SumOfMoney":10150,"SumOfItems":29,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":8050,"SumOfItems":23},
+				{"name":"科研单位","SumOfMoney":2100,"SumOfItems":6},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":5950,"SumOfItems":17},
+				{"name":"中国科学院","SumOfMoney":2100,"SumOfItems":6},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":1050,"SumOfItems":3},
+				{"name":"各省,自治区,市(直)","SumOfMoney":1050,"SumOfItems":3}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	3150,"SumOfItems":9},
+				{"name": "天津", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河北", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "吉林", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "黑龙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "上海", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "江苏", "SumOfMoney":	1400,"SumOfItems":4},
+				{"name": "浙江", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "安徽", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	700,"SumOfItems":2},
+				{"name": "湖南", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "广东", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "四川", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "陕西", "SumOfMoney":	1400,"SumOfItems":4},
+				{"name": "甘肃", "SumOfMoney":	0,"SumOfItems":0}
+			]
+		},
+		{
+			"name":"管理科学部","SumOfMoney":1715,"SumOfItems":7,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":1715,"SumOfItems":7},
+				{"name":"科研单位","SumOfMoney":0,"SumOfItems":0},
+				{"name":"其他","SumOfMoney":0,"SumOfItems":0}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":1470,"SumOfItems":6},
+				{"name":"中国科学院","SumOfMoney":245,"SumOfItems":1},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":0,"SumOfItems":0},
+				{"name":"各省,自治区,市(直)","SumOfMoney":0,"SumOfItems":0}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	980,"SumOfItems":4},
+				{"name": "天津", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "吉林", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "黑龙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "上海", "SumOfMoney":	490,"SumOfItems":2},
+				{"name": "江苏", "SumOfMoney":	245,"SumOfItems":1},
+				{"name": "浙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "安徽", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "广东", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "四川", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "陕西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "甘肃", "SumOfMoney":	0,"SumOfItems":0}
+			]
+		},
+		{
+			"name":"医学科学部","SumOfMoney":8400,"SumOfItems":24,
+			"company":
+			[
+				{"name":"高等院校","SumOfMoney":5250,"SumOfItems":15},
+				{"name":"科研单位","SumOfMoney":2100,"SumOfItems":6},
+				{"name":"其他","SumOfMoney":1050,"SumOfItems":3}
+			],
+			"government":
+			[
+				{"name":"教育部","SumOfMoney":3850,"SumOfItems":11},
+				{"name":"中国科学院","SumOfMoney":1750,"SumOfItems":5},
+				{"name":"工,交,农,医,国防等部门","SumOfMoney":1400,"SumOfItems":4},
+				{"name":"各省,自治区,市(直)","SumOfMoney":1400,"SumOfItems":4}
+			],
+			"province":
+			[
+				{"name": "北京", "SumOfMoney":	3500,"SumOfItems":10},
+				{"name": "天津", "SumOfMoney":	1050,"SumOfItems":3},
+				{"name": "河北", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山西", "SumOfMoney":	0,"SumOfItems":0},
+				
+				{"name": "辽宁", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "吉林", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "黑龙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "上海", "SumOfMoney":	1750,"SumOfItems":5},
+				{"name": "江苏", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "浙江", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "安徽", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "福建", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "江西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "山东", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "河南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "湖北", "SumOfMoney":	350,"SumOfItems":1},
+				{"name": "湖南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "广东", "SumOfMoney":	700,"SumOfItems":2},
+				
+				{"name": "海南", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "重庆", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "四川", "SumOfMoney":	350,"SumOfItems":1},
+				
+				{"name": "陕西", "SumOfMoney":	0,"SumOfItems":0},
+				{"name": "甘肃", "SumOfMoney":	0,"SumOfItems":0}
+			]
+		}
+	]
+}

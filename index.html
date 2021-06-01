@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>2018年国家杰出青年基金项目资助情况</title>
+  <link rel="stylesheet" href="css/normalize.min.css">
+      <link rel="stylesheet" href="css/style.css">
+  <style>
+	.province {stroke: black;stroke-width: 1px;}
+	.valueText {font-family: arial;font-size: 12px;text-anchor: middle;}
+	text{font-size:12px}
+	.mainBars rect{
+		shape-rendering: auto;
+		fill-opacity: 0;
+		stroke-width: 0.5px;
+		stroke: rgb(0, 0, 0);
+		stroke-opacity: 0;
+	}
+	.subBars{shape-rendering:crispEdges;}
+	.edges{stroke:none;fill-opacity:0.5;}
+	.header{font-size:20px;}
+	.line{stroke:black;}
+	.tooltip{
+		position: absolute;
+		width: 120;
+		height: auto;
+		font-family: simsun;
+		font-size: 14px;
+		text-align: center;
+		background-color: white;
+		border-radius: 5px;
+	}
+  </style>
+</head>
+
+<body>
+  <div class="container">
+	<div id="header" style="width:100%;color: #FFFFFF">
+		<h1 style="margin-bottom:0;text-align:center;">2018年国家杰出青年基金项目资助情况</h1></div>
+	<div class="element-card">
+		<div class="front-facing">
+			<h1 class="abr">地区分布</h1>
+		</div>
+		<div id="back-facing1" class="back-facing"></div>
+	</div>
+	
+	<div class="element-card">
+		<div class="front-facing">
+			<h1 class="abr">单位性质</h1>
+		</div>
+		<div id="back-facing2" class="back-facing"></div>
+	</div>
+	
+	<div class="element-card">
+		<div class="front-facing">
+			<h1 class="abr">单位隶属</h1>
+		</div>
+		<div id="back-facing3" class="back-facing"></div>
+	</div>
+	
+	<div id="footer" style="color: #FFFFFF;clear:both;text-align:center;width:100%">Mason Wu-2019/11/01</div>
+</div>
+<script src='js/jquery.min.js'></script>
+<script src="js/index.js"></script>
+<script src="js/d3.min.js" charset="utf-8"></script>
+<script src="js/topojson.v1.min.js" charset="utf-8"></script>
+<script src="js/viz.v1.1.0.min.js"></script>
+<script src="js/index1.js" charset="utf-8"></script>
+<script src="js/index2.js" charset="utf-8" ></script>
+<script src="js/index3.js" charset="utf-8" ></script>
+
+</body>
+</html>
